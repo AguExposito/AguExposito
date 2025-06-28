@@ -30,7 +30,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - 🔭 Currently working at **Interbrain Innovation** as a Unity Software Developer
 - 🎓 4th year student of **Systems Information Engineering** at UTN
@@ -46,7 +46,7 @@
 #### **Unity Software Developer** @ Interbrain Innovation (2022 - 2025)
 - 🎮 Developed **3D/2D applications** and **PC/VR games** using Unity Engine
 - 🔧 Created diverse applications and simulators for various industries
-- 🚗 Specialized in VR user interactions and inmersion
+- ᯅ Specialized in VR user interactions and inmersion
 - 👥 Enhanced user interaction and implemented logical error correction systems
 - 🛠️ Maintained and updated VR/PC simulations for seamless functionality
 
@@ -179,7 +179,7 @@
 
 - 🏆 Competing in programming challenges
 - 🎯 Developing my own video games
-- 🏀 Participating in Gamerams
+- 🏀 Participating in GameJams
 
 ---
 
@@ -192,3 +192,51 @@
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<style>
+  .trivia-question {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .trivia-answers {
+    margin-top: 10px;
+  }
+  .trivia-answers button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+  }
+  .trivia-answers button:hover {
+    background-color: #3e8e41;
+  }
+  .trivia-result {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+</style>
+
+<div align="center" class="trivia-question">What is the most popular programming language?</div>
+<div class="trivia-answers" align="center">
+  <button onclick="checkAnswer('Python')">Python</button>
+  <button onclick="checkAnswer('JavaScript')">JavaScript</button>
+  <button onclick="checkAnswer('Java')">Java</button>
+</div>
+<div class="trivia-result" id="trivia-result" align="center"></div>
+
+<script>
+  function checkAnswer(answer) {
+    const result = document.getElementById('trivia-result');
+    if (answer === 'JavaScript') {
+      result.innerText = 'Correct!';
+      result.style.color = 'green';
+    } else {
+      result.innerText = 'Incorrect!';
+      result.style.color = 'red';
+    }
+  }
+</script>
