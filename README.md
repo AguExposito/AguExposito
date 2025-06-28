@@ -43,7 +43,7 @@
 #### **Unity Software Developer** at Interbrain Innovation (2022 - 2025)
 - 🎮 Developed **3D/2D applications** and **PC/VR games** using Unity Engine
 - 🔧 Created diverse applications and simulators for various industries
-- 🚗 Specialized in **automotive**, **commercial showcases**, and **chemical preparation** simulations
+- 🚗 Specialized in VR user interactions and inmersion
 - 👥 Enhanced user interaction and implemented logical error correction systems
 - 🛠️ Maintained and updated VR/PC simulations for seamless functionality
 
@@ -91,24 +91,9 @@
 
 ### 🎯 Skills Progress
 
-```text
 Unity/C#             ████████████████████████░   95%
 VR Development       ████████████████████████░   95%
 Game Design          ███████████████████████░░   90%
 Mobile Development   ████████████████░░░░░░░░░   65%
 Web Technologies     ████████████████░░░░░░░░░   65%
 
-<!--
-**AguExposito/AguExposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
