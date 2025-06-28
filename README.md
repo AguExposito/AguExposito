@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Agustín Damián Expósito Marsollier
+# Hi, I'm Agustín Damián Expósito Marsollier
 
 <h3 align="center">🎮 Unity Software Developer | 🎓 Systems Information Engineering Student</h3>
 
@@ -17,6 +17,9 @@
   <a href="https://github.com/AguExposito">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://akiosvega.itch.io">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AguExposito&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -29,7 +32,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 Currently working at **Outlier** as a AI Tasker to train AIs
+- 🔭 Currently working at **Interbrain Innovation** as a Unity Software Developer
 - 🎓 4th year student of **Systems Information Engineering** at UTN
 - 🏆 **National Flag Bearer** - Top performing student in Argentina
 - 🌱 Passionate about **Unity**, **VR Development**, and **Game Design**
@@ -40,7 +43,7 @@
 
 ### 💼 Work Experience
 
-#### **Unity Software Developer** at Interbrain Innovation (2022 - 2025)
+#### **Unity Software Developer** @ Interbrain Innovation (2022 - 2025)
 - 🎮 Developed **3D/2D applications** and **PC/VR games** using Unity Engine
 - 🔧 Created diverse applications and simulators for various industries
 - 🚗 Specialized in VR user interactions and inmersion
@@ -91,9 +94,101 @@
 
 ### 🎯 Skills Progress
 
-Unity/C#             ████████████████████████░   95%
-VR Development       ████████████████████████░   95%
-Game Design          ███████████████████████░░   90%
-Mobile Development   ████████████████░░░░░░░░░   65%
-Web Technologies     ████████████████░░░░░░░░░   65%
+<table align="center">
+  <tr>
+    <td><b>Unity/C#</b></td>
+    <td><img src="https://img.shields.io/badge/95%25-100000?style=flat-square&logo=unity&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████████████░-100000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>VR Development</b></td>
+    <td><img src="https://img.shields.io/badge/95%25-FF6B6B?style=flat-square&logo=oculus&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████████████░-FF6B6B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Game Design</b></td>
+    <td><img src="https://img.shields.io/badge/90%25-4ECDC4?style=flat-square&logo=unity&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/███████████████████████░░-4ECDC4?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile Development</b></td>
+    <td><img src="https://img.shields.io/badge/65%25-764ABC?style=flat-square&logo=android&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████░░░░░░░░░-764ABC?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Technologies</b></td>
+    <td><img src="https://img.shields.io/badge/65%25-FCA121?style=flat-square&logo=html5&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████░░░░░░░░░-FCA121?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=repo-name-1&theme=radical)](https://github.com/AguExposito/repo-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=repo-name-2&theme=radical)](https://github.com/AguExposito/repo-name-2)
+
+</div>
+
+<details>
+<summary><b>🎮 View More Projects</b></summary>
+
+#### 🎯 Personal Projects
+- 🎮 **[Project Name 1](https://github.com/AguExposito/project1)** - Brief description
+- 🕹️ **[Project Name 2](https://github.com/AguExposito/project2)** - Brief description
+- 🎲 **[Game Project](https://akiosvega.itch.io/game-name)** - Published on itch.io
+
+#### 🤝 Collaborations
+- 👥 **[Collaboration 1](https://github.com/organization/project)** - Role: Unity Developer
+- 🏢 **[Collaboration 2](https://github.com/organization/project)** - Role: VR Specialist
+- 🎯 **[Open Source Contribution](https://github.com/project/repo)** - Feature implementation
+
+</details>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **National Flag Bearer** at Colegio Tomas Alva Edison
+- 🎖️ **Top Performing Student** in Computer Science with focus on Robotics and Programming
+- 🎮 **3+ Years** of Professional Unity Development Experience
+
+---
+
+### 🌐 Languages
+
+- 🇪🇸 **Spanish**: Native
+- 🇬🇧 **English**: Intermediate (B2)
+
+---
+
+### 🎮 Hobbies & Interests
+
+- 🏆 Competing in programming challenges
+- 🎯 Developing my own video games
+- 🏀 Participating in Gamerams
+
+---
+
+<div align="center">
+  <h3>📫 Let's Connect!</h3>
+  <p>Feel free to reach out for collaborations or just a friendly chat!</p>
+  
+  [![Email](https://img.shields.io/badge/Email-aexpositomarsollier@gmail.com-red?style=flat-square&logo=gmail)](mailto:aexpositomarsollier@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-+5492615634573-green?style=flat-square&logo=whatsapp)](https://wa.me/5492615634573)
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
