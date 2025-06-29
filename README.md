@@ -153,11 +153,93 @@
 <details>
 <summary><b>🎮 View More Projects</b></summary>
 
-#### 🎯 Personal Projects
-- 🎮 **[Project Name 1](https://github.com/AguExposito/project1)** - Brief description
-- 🕹️ **[Project Name 2](https://github.com/AguExposito/project2)** - Brief description
-- 🎲 **[Game Project](https://akiosvega.itch.io/game-name)** - Published on itch.io
+### 🎯 Personal Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪐 Galactic Extractions
+
+<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-Mobile-green?style=flat-square" />
+
+**Description:** Android-pc game protoype about galactic mining and, base building and development.
+
+**Features:**
+- 🧩 Building placement
+- 👥 Single player campaign
+- 🎯 Touch or Mouse/Keyboard input
+- 🌍 Planetary system
+
+**Tech Stack:**
+`Unity 6000.0.32f1` `C#` `URP` `ShaderGraph` `ParticleSystem` `Handmade Sprites (Piskel)`
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/GalacticExtractions)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🟠 Charm Maker
+
+<img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
+
+**Description:** Game created for Winter MelonJam with the theme "Charm" | Published on itch.io | A charming point-and-click game where you craft charms for wierd people.
+
+**Features:**
+- 🕹️ Easy gameplay
+- 🎨 Charming images and interface
+- 🖱️ ̗̀ ➛ Point and click
+- 💾 No need to download
+
+**Tech Stack:**
+`Unity 2022.3.19f1` `C#` `URP` `ParticleSystem`
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/ar-car)
+[![Itch.io](https://img.shields.io/badge/Play_Now-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akiosvega.itch.io/charmmaker)
+<!--[![YouTube](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo)-->
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<tr>
+<td width="50%" valign="top">
+### 🚨 A Game About Pushing Buttons And Deciding People's Fates (AGAPBADPF)
+
+<img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
+
+**Description:** Game created for Brackeys Gamejam 2022 with the theme "It is Not Real" | Published on itch.io | Is a semi-psychological game, you take the role of an employee whose job is to decide if people are mentally well or not.
+
+**Features:**
+- 🕹️ Easy gameplay
+- 🧠 Psychological game
+- 🖱️ ̗̀ ➛ Point and click
+
+**Tech Stack:**
+`Unity 2022.3.19f1` `C#` `URP` `ParticleSystem`
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/ar-car)
+[![Itch.io](https://img.shields.io/badge/Play_Now-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akiosvega.itch.io/a-game-about-pushing-buttons-and-deciding-peoples-fates-agapbadpf)
+<!--[![YouTube](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo)-->
+</div>
+</td>
+</tr>
+</table>
+<!--
 #### 🤝 Collaborations
 - 👥 **[Collaboration 1](https://github.com/organization/project)** - Role: Unity Developer
 - 🏢 **[Collaboration 2](https://github.com/organization/project)** - Role: VR Specialist
@@ -186,16 +268,20 @@
   </tr>
 </table>
 </div>
-
+-->
 </details>
 
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **National Flag Bearer** at Colegio Tomas Alva Edison
-- 🎖️ **Top Performing Student** in Computer Science with focus on Robotics and Programming
+- 🥇 **National Flag Bearer** at Colegio Tomas Alva Edison - Top performing student award in Argentina
+- 🏅 **Hackathon Participant** - Active participant in several hackathons with diverse topics, special focus on programming, robotics and video games
 - 🎮 **3+ Years** of Professional Unity Development Experience
+- 📈 **Fast Learning** - I went from student to professional Unity developer while completing my studies and working part-time.
+- 📚 **Self-Taught VR Developer** - Mastered VR development through hands-on projects and continuous learning
+- 🌟 **Cross-Platform Expertise** - Shipped applications on PC, Mobile, and VR platforms
+- 👥 **Team Collaboration** - Worked with multidisciplinary teams using Agile/Scrum methodologies
 
 ---
 
