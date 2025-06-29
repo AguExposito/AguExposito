@@ -145,8 +145,8 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical)](https://github.com/AguExposito/repo-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical)](https://github.com/AguExposito/repo-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical)](https://github.com/AguExposito/Simplexitos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical)](https://github.com/AguExposito/MonChopper)
 
 </div>
 
