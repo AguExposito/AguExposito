@@ -30,7 +30,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - 🔭 Currently working at **Interbrain Innovation** as a Unity Software Developer
 - 🎓 4th year student of **Systems Information Engineering** at UTN
@@ -39,7 +39,11 @@
 - 💡 3+ years of experience in interactive applications and VR/PC simulations
 - 🎯 Specialized in creating immersive experiences through optimization tools
 
+  <br />
+
 ---
+
+<img align="right" alt="planet" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBoaTRvN3YwNDBrM3F1d2NvZHFrcmlyZng3dXNmZXZueHVydnR6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bn0JzrZxWfTKU/giphy.gif">
 
 ### 💼 Work Experience
 
@@ -50,6 +54,8 @@
 - 👥 Enhanced user interaction and implemented logical error correction systems
 - 🛠️ Maintained and updated VR/PC simulations for seamless functionality
 
+  <br />
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -134,12 +140,13 @@
 
 ---
 
+
 ### 🚀 Featured Projects
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=repo-name-1&theme=radical)](https://github.com/AguExposito/repo-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=repo-name-2&theme=radical)](https://github.com/AguExposito/repo-name-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical)](https://github.com/AguExposito/repo-name-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical)](https://github.com/AguExposito/repo-name-2)
 
 </div>
 
@@ -155,6 +162,30 @@
 - 👥 **[Collaboration 1](https://github.com/organization/project)** - Role: Unity Developer
 - 🏢 **[Collaboration 2](https://github.com/organization/project)** - Role: VR Specialist
 - 🎯 **[Open Source Contribution](https://github.com/project/repo)** - Feature implementation
+
+### 🔒 Private & Commercial Projects
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎮 VR Training Simulator</h3>
+      <img src="https://img.shields.io/badge/Unity-2022.3-black?style=for-the-badge&logo=unity" />
+      <img src="https://img.shields.io/badge/Status-Private-red?style=for-the-badge" />
+      <br/><br/>
+      <p>Industrial VR training application with real-time physics simulation and multi-user support.</p>
+      <p><b>Tech:</b> Unity, C#, Oculus SDK, Photon</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚗 Automotive Configurator</h3>
+      <img src="https://img.shields.io/badge/Platform-PC/VR-blue?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Status-NDA-orange?style=for-the-badge" />
+      <br/><br/>
+      <p>3D car configuration system with real-time rendering and VR showroom experience.</p>
+      <p><b>Tech:</b> Unity HDRP, C#, Custom Shaders</p>
+    </td>
+  </tr>
+</table>
+</div>
 
 </details>
 
@@ -192,51 +223,3 @@
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-<style>
-  .trivia-question {
-    font-size: 18px;
-    font-weight: bold;
-  }
-  .trivia-answers {
-    margin-top: 10px;
-  }
-  .trivia-answers button {
-    margin: 5px;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    background-color: #4CAF50;
-    color: #fff;
-    cursor: pointer;
-  }
-  .trivia-answers button:hover {
-    background-color: #3e8e41;
-  }
-  .trivia-result {
-    margin-top: 10px;
-    font-size: 18px;
-    font-weight: bold;
-  }
-</style>
-
-<div align="center" class="trivia-question">What is the most popular programming language?</div>
-<div class="trivia-answers" align="center">
-  <button onclick="checkAnswer('Python')">Python</button>
-  <button onclick="checkAnswer('JavaScript')">JavaScript</button>
-  <button onclick="checkAnswer('Java')">Java</button>
-</div>
-<div class="trivia-result" id="trivia-result" align="center"></div>
-
-<script>
-  function checkAnswer(answer) {
-    const result = document.getElementById('trivia-result');
-    if (answer === 'JavaScript') {
-      result.innerText = 'Correct!';
-      result.style.color = 'green';
-    } else {
-      result.innerText = 'Incorrect!';
-      result.style.color = 'red';
-    }
-  }
-</script>
