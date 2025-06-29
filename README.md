@@ -32,7 +32,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-- 🔭 Currently working at **Interbrain Innovation** as a Unity Software Developer
+- 🔭 Currently working at **Outlier** as a AI Tasker to train AIs
 - 🎓 4th year student of **Systems Information Engineering** at UTN
 - 🏆 **National Flag Bearer** - Top performing student in Argentina
 - 🌱 Passionate about **Unity**, **VR Development**, and **Game Design**
