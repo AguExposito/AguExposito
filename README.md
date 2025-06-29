@@ -88,12 +88,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AguExposito&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AguExposito&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AguExposito&show_icons=true&theme=radical&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AguExposito&theme=radical&cache_seconds=0" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguExposito&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AguExposito&layout=compact&theme=radical&cache_seconds=0" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AguExposito&theme=darkhub&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_seconds=0)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -151,7 +161,7 @@
 <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical)](https://github.com/AguExposito/Simplexitos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical&cache_seconds=0)](https://github.com/AguExposito/Simplexitos)
 
 **Features:**
 - 🗃️ Inventory Management
@@ -176,7 +186,7 @@
 <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
 <img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical)](https://github.com/AguExposito/MonChopper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical&cache_seconds=0)](https://github.com/AguExposito/MonChopper)
 
 **Features:**
 - 🎮 FPS Shooter Looter
@@ -189,9 +199,7 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/ar-car)
-[![Itch.io](https://img.shields.io/badge/Play_Now-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akiosvega.itch.io/charmmaker)
-<!--[![YouTube](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo)-->
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/MonChopper)
 </div>
 
 </td>
@@ -323,6 +331,13 @@
 
 ---
 
+### 🌐 Languages
+
+- **Spanish**: Native
+- **English**: Intermediate (B2)
+
+---
+
 ### 🏆 Achievements
 
 - 🥇 **National Flag Bearer** at Colegio Tomas Alva Edison - Top performing student award in Argentina
@@ -332,13 +347,6 @@
 - 📚 **Self-Taught VR Developer** - Mastered VR development through hands-on projects and continuous learning
 - 🌟 **Cross-Platform Expertise** - Shipped applications on PC, Mobile, and VR platforms
 - 👥 **Team Collaboration** - Worked with multidisciplinary teams using Agile/Scrum methodologies
-
----
-
-### 🌐 Languages
-
-- 🇪🇸 **Spanish**: Native
-- 🇬🇧 **English**: Intermediate (B2)
 
 ---
 
