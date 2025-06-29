@@ -142,13 +142,61 @@
 
 
 ### 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈📋 Simplexitos
+
+<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical)](https://github.com/AguExposito/Simplexitos)
+
+**Features:**
+- 🗃️ Inventory Management
+- ✏️ Define your own entities
+- 🌐🛢️ Online DB
+- 💻 Web app, front and back connection
+
+**Tech Stack:**
+`React` `JavaScript` `Express` `NodeJS` `BackEnd` `FrontEnd`
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=Simplexitos&theme=radical)](https://github.com/AguExposito/Simplexitos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical)](https://github.com/AguExposito/MonChopper)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/Simplexitos)
 
 </div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔪 MonChopper
+
+<img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical)](https://github.com/AguExposito/MonChopper)
+
+**Features:**
+- 🎮 FPS Shooter Looter
+- 🔫 Fire weapons
+- 🕸️ Capture monsters and extract materials
+- 🌍 Explore the world
+
+**Tech Stack:**
+`Unity 2022.3.19f1` `C#` `URP` `ParticleSystem`
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/ar-car)
+[![Itch.io](https://img.shields.io/badge/Play_Now-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akiosvega.itch.io/charmmaker)
+<!--[![YouTube](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo)-->
+</div>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🎮 View More Projects</b></summary>
@@ -215,6 +263,7 @@
 <td colspan="2" align="center">
 <tr>
 <td width="50%" valign="top">
+  
 ### 🚨 A Game About Pushing Buttons And Deciding People's Fates (AGAPBADPF)
 
 <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
@@ -244,7 +293,6 @@
 - 👥 **[Collaboration 1](https://github.com/organization/project)** - Role: Unity Developer
 - 🏢 **[Collaboration 2](https://github.com/organization/project)** - Role: VR Specialist
 - 🎯 **[Open Source Contribution](https://github.com/project/repo)** - Feature implementation
-
 ### 🔒 Private & Commercial Projects
 <div align="center">
 <table>
@@ -269,6 +317,8 @@
 </table>
 </div>
 -->
+
+
 </details>
 
 ---
