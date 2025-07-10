@@ -181,25 +181,25 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔪 MonChopper
+### 🔧 TaskMaster
 
 <img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
 <img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=MonChopper&theme=radical&cache_seconds=0)](https://github.com/AguExposito/MonChopper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AguExposito&repo=TaskMaster&theme=radical&cache_seconds=0)](https://github.com/AguExposito/TaskMaster)
 
 **Features:**
-- 🎮 FPS Shooter Looter
-- 🔫 Fire weapons
-- 🕸️ Capture monsters and extract materials
-- 🌍 Explore the world
+- 💻 Web interface and desktop executable
+- █░  Progress statistics and priorities
+- 🎨 Modern and responsive design
+- 🌍 Multilingual (Spanish/English)
 
 **Tech Stack:**
-`Unity 2022.3.19f1` `C#` `URP` `ParticleSystem`
+`Flask` `Python` `pywebview` `HTML` `CSS` `JS`
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/MonChopper)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/TaskMaster)
 </div>
 
 </td>
@@ -293,6 +293,30 @@
 [![Itch.io](https://img.shields.io/badge/Play_Now-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://akiosvega.itch.io/a-game-about-pushing-buttons-and-deciding-peoples-fates-agapbadpf)
 <!--[![YouTube](https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/demo)-->
 </div>
+</td>
+<td width="50%" valign="top">
+
+### 🔪 MonChopper
+
+<img src="https://img.shields.io/badge/Status-Completed-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-PC-purple?style=flat-square" />
+
+**Description:** Shooter-Looter game where you can capture different monsters, upgrade your equipment, and explore the map.
+
+**Features:**
+- 🎮 FPS Shooter Looter
+- 🔫 Fire weapons
+- 🕸️ Capture monsters and extract materials
+- 🌍 Explore the world
+
+**Tech Stack:**
+`Unity 2022.3.19f1` `C#` `URP` `ParticleSystem`
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AguExposito/MonChopper)
+</div>
+
 </td>
 </tr>
 </table>
